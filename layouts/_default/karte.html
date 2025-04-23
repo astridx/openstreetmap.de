@@ -239,7 +239,7 @@
                     var wiki = placemark.getElementsByTagName('wiki')[0]?.textContent || '?';
                     var url = placemark.getElementsByTagName('url')[0]?.textContent || '?';
                     var mail = placemark.getElementsByTagName('mail')[0]?.textContent || '?';
-                    var location = placemark.getElementsByTagName('location')[0]?.textContent || '?';
+                    var where = placemark.getElementsByTagName('where')[0]?.textContent || '?';
                     var photo = placemark.getElementsByTagName('photo')[0]?.textContent || './img/nophoto.png';
                     var coordinatesText = placemark.getElementsByTagName('coordinates')[0]?.textContent.trim();
 
@@ -260,11 +260,11 @@
                             properties: {
                                 name: name,
                                 when: when,
-                                location: location,
-                                photo: photo,
                                 wiki: wiki,
                                 url: url,
-                                mail: mail
+                                mail: mail,
+                                where: where,
+                                photo: photo
                             }
                         });
                     }
@@ -294,10 +294,10 @@
                         const properties = e.features[0].properties;
                         const coordinates = e.features[0].geometry.coordinates;
 
-                        const name = properties.name || "Unbekannt";
-                        const photo = properties.photo || "./img/nophoto.png";
-                        const when = properties.when || "?";
-                        const where = properties.where || "?";
+                        const name = properties.name;
+                        const photo = properties.photo;
+                        const when = properties.when;
+                        const where = properties.where;
                         const wiki = properties.wiki;
                         const url = properties.url;
                         const mail = properties.mail;
