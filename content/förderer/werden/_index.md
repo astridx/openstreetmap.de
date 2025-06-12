@@ -12,15 +12,16 @@ Unternehmen auch morgen noch von den OpenStreetMap-Daten und -Karten
 profitieren kann. Die Förderung von OSM kann auch Baustein in der
 Nachhaltigkeitsberichterstattung (CSRD) Ihres Unternehmens sein.
 
-
-| Stufe        | Jahresbeitrag | Wie wir uns bedanken |
-| ------------ | ------------: | -------------------- |
-| Gold         |      30.000 € | Ihr Logo auf unserer [Fördererseite](/förderer/), Danksagung über Social Media |
-| Silber       |      12.000 € | Ihr Logo auf unserer [Fördererseite](/förderer/), Danksagung über Social Media |
-| Bronze       |       5.000 € | Ihr Logo auf unserer [Fördererseite](/förderer/) |
-| Unterstützer |       1.500 € | Ihr Name auf unserer [Fördererseite](/förderer/) |
-{.sponsor-table}
+Weitere Informationen darüber, wie und warum Sie Förderer werden sollten,
+finden Sie in unserem [Prospekt](/förderer/Prospekt-OpenStreetMap-Förderer.pdf).
 
 Sie wollen Förderer werden? Melden Sie sich bei [Jochen
-Topf](mailto:jochen.topf@fossgis.de).
+Topf](mailto:jochen.topf@fossgis.de). Sie können gerne [dieses
+Formular](/förderer/Formular-OpenStreetMap-Förderer.pdf) für Ihre Anfrage
+verwenden. Wir setzen uns dann mit Ihnen in Verbindung.
+
+<a href="/förderer/openstreetmap-deutschland-foerderer.svg"><img src="/förderer/openstreetmap-deutschland-foerderer.svg" style="float: left; width: 220px; border: 1px dotted #a0a0a0; border-radius: 4px; margin-right: 10px;"/></a>
+
+Nachdem Sie als Förderer einen Vertrag mit uns unterschrieben haben, dürfen Sie
+dieses Logo auf ihrer Webseite und in anderer Kommunikation verwenden.
 
